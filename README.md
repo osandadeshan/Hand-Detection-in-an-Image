@@ -1,1 +1,1 @@
-# Hand-Detection-in-an-image
+# Hand detection in an image
